@@ -20,6 +20,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Satyasri2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satyasri2006/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyasri2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Satyasri2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satyasri2006/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyasri2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |

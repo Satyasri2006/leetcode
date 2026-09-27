@@ -17,6 +17,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Satyasri2006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Satyasri2006/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyasri2006/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyasri2006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyasri2006/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,9 +118,18 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyasri2006/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyasri2006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyasri2006/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyasri2006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyasri2006/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyasri2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

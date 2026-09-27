@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyasri2006/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Satyasri2006/leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Satyasri2006/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Satyasri2006/leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |

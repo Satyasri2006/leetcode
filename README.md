@@ -14,6 +14,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyasri2006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -35,8 +36,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Satyasri2006/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

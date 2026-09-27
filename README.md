@@ -42,6 +42,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyasri2006/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Satyasri2006/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Satyasri2006/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Satyasri2006/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyasri2006/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satyasri2006/leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Satyasri2006/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Satyasri2006/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyasri2006/leetcode/tree/master/0137-single-number-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Satyasri2006/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

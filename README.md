@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Satyasri2006/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
 ## String
 |  |
 | ------- |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

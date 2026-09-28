@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Satyasri2006/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Satyasri2006/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Satyasri2006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Satyasri2006/leetcode/tree/master/0066-plus-one) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Satyasri2006/leetcode/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyasri2006/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Satyasri2006/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

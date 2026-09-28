@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Satyasri2006/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Satyasri2006/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Satyasri2006/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Satyasri2006/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Satyasri2006/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyasri2006/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Satyasri2006/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Satyasri2006/leetcode/tree/master/0051-n-queens) |
 ## String Matching
 |  |

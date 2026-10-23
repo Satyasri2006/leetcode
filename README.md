@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/Satyasri2006/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyasri2006/leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Satyasri2006/leetcode/tree/master/0198-house-robber) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satyasri2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Satyasri2006/leetcode/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satyasri2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Satyasri2006/leetcode/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satyasri2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
 | ------- |
